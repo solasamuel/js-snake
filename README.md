@@ -1,8 +1,9 @@
 # Snake
+![Algorithm schema](./images/jss_screenshot.png)
 
 ## Table of contents
 * [General info](#general-info)
-* [Setup](#setup)
+* [Launch](#launch)
 
 ## General info
 The classic snake game created with JavaScript, HTML and Native CSS.
