@@ -8,5 +8,5 @@
 ## General info
 The classic snake game created with JavaScript, HTML and Native CSS.
 	
-## Setup
+## Launch
 To run this project, open it up in any browser
